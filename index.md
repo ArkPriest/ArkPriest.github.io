@@ -1,8 +1,12 @@
 ## Welcome
 
-I am Student at the University of Edingurgh - Zhejiang University Institude. This is my public github respository.
+I am a fresh student at the University of Edingurgh - Zhejiang University Institude. I major in Biomedical Sciences. This is my public github respository for Integrated Biomedical Informatics In-Course-Assessments. 
+
+## Know me
 
 [My Qzone webpage](https://user.qzone.qq.com/363598148)
+
+[My Bilibili webspace](https://space.bilibili.com/291388399/)
 
 You can see the [editor on Github](https://github.com/r0bah0lic/r0bah0lic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
