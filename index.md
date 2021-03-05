@@ -1,8 +1,8 @@
 ## Welcome
 
-I am Lecturer at the University of Edinburgh and an Assistant Professor at the University of Edingurgh - Zhejiang University Institude. This is my public github respository.
+I am Student at the University of Edingurgh - Zhejiang University Institude. This is my public github respository.
 
-[My University of Edinburgh webpage](https://www.ed.ac.uk/profile/robert-young)
+[My Bilibili webpage](https://space.bilibili.com/291388399/)
 
 You can see the [editor on Github](https://github.com/r0bah0lic/r0bah0lic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
